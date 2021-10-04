@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = carl.schierstaedt@gmail.com
+	name = Carl Schierstaedt
